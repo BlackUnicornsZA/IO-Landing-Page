@@ -865,7 +865,7 @@ figcaption {
   border-width: 3px;
   border-color: #ed193a;
   border-radius: 15px;
-  background-color: transparent;
+  background-color: #ED193A;
   -webkit-transition: none 0ms ease;
   transition: none 0ms ease;
   color: #fff;
@@ -903,7 +903,7 @@ figcaption {
 }
 
 .button.grey {
-  background-color: rgba(255, 255, 255, 0.2);
+  background-color: #ED193A;
   color: #fff;
 }
 
@@ -930,7 +930,7 @@ figcaption {
   border-style: solid;
   border-width: 3px;
   border-color: #ED193A;
-  background-color: transparent;
+  background-color: #ED193A;
   -webkit-transition: opacity 200ms ease;
   transition: opacity 200ms ease;
   color: #fff;
